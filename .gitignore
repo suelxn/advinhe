@@ -1,0 +1,16 @@
+# Build artifacts
+jogo
+
+# External libraries
+lib/civetweb/
+
+# Editor / IDE
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
